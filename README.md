@@ -32,12 +32,19 @@ The project incorporates the following services and packages:
 ## Screenshots
 
 - 1. Upload a video
+
 ![Alt text](./images/Image1.png)
+
 - 2. Analyse a video
+
 ![Alt text](./images/Image2.png)
+
 - 3. Check History
+
 ![Alt text](./images/Image4.png)
+
 - 3. Summarize a video
+
 ![Alt text](./images/Image3.png)
 
 ## Live Demo
