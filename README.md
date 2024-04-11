@@ -43,12 +43,13 @@ The project incorporates the following services and packages:
 
 ![Alt text](./images/Image4.png)
 
-- 3. Summarize a video
+- 4. Summarize a video
 
 ![Alt text](./images/Image3.png)
 
 ## Live Demo
 [Link](http://speechtotext-1823339700.us-east-1.elb.amazonaws.com/)
+
 
 ## Getting Started
 
@@ -58,6 +59,17 @@ To run this repository:
 2. Login using AWS CLI.
 3. Install dependencies using the `pip install -r requirements.txt` command.
 4. Run frontend using `streamlit run frontend.py`.
+
+## Deployment
+
+- Initialize Terraform:
+   `terraform init`
+- Validate the Terraform configuration:
+   `terraform validate`
+- Apply the Terraform configuration:
+   `terraform apply -auto-approve`
+- To delete the resources:
+   `terraform destroy`
 
 Now, you're ready to explore the capabilities of VideoInsightBot and enhance your video interaction experience.
 
